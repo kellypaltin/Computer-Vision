@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/vlarobbyk/aplicaciones/Librerias/opencv/opencvi/include/opencv4/",
+                "/home/vlarobbyk/aplicaciones/Librerias/onnx-runtime-1.17.1/onnx_runtimei_1.17.1/include/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
